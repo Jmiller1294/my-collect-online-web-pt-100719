@@ -6,5 +6,5 @@ def my_collect(array)
       collection << array
       i += 1
     end
-  puts collection
+   collection
 end
